@@ -18,17 +18,22 @@ Hi there! I'm <b>Mohammad Siddique Sakib</b>. I build web experiences that feel 
 
 ## GitHub Stats
 
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiquesakib&theme=dark&hide_border=false&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddiquesakib&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=siddiquesakib&theme=dark&hide_border=false) |
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiquesakib&theme=dark&hide_border=false&layout=compact)
 
----
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddiquesakib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+### GitHub Streak
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=siddiquesakib&theme=dark&hide_border=false)
+
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siddiquesakib&theme=onedark&no-frame=true&margin-w=4)
 
 ---
 
+## Profile views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiquesakib&label=Profile%20views&color=0e75b6&style=flat" alt="siddiquesakib" /> </p>
 
 
