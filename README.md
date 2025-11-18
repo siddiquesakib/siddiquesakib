@@ -41,4 +41,5 @@ Hi there! I'm <b>Mohammad Siddique Sakib</b>. I build web experiences that feel 
 Feel free to reach out or connect with me:  
 
 - **Email**: dmsakib1122@gmail.com  
-- **LinkedIn**: [Click Here](www.linkedin.com/in/mohammad-siddique-sakib)  
+- **LinkedIn**: [click here](https://www.linkedin.com/in/mohammad-siddique-sakib)
+
