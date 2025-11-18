@@ -1,16 +1,39 @@
-## Hi there 👋
+## About Me
 
-<!--
-**siddiquesakib/siddiquesakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm <b>Mohammad Siddique Sakib</b>. I build web experiences that feel smooth and intuitive. Using the **MERN Stack**, I focus on scalable architecture, fast performance, and clean user interfaces. I also enjoy sharing knowledge.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Work With
+
+| Skill Category | Technologies |
+|----------------|--------------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
+
+---
+
+## GitHub Stats
+
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiquesakib&theme=dark&hide_border=false&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddiquesakib&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=siddiquesakib&theme=dark&hide_border=false) |
+
+---
+
+##  GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=siddiquesakib&theme=onedark&no-frame=true&margin-w=4)
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiquesakib&label=Profile%20views&color=0e75b6&style=flat" alt="siddiquesakib" /> </p>
+
+
+## Contact
+Feel free to reach out or connect with me:  
+
+- **Email**: dmsakib1122@gmail.com  
+- **LinkedIn**: [Click Here](www.linkedin.com/in/mohammad-siddique-sakib)  
