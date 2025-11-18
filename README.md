@@ -8,8 +8,8 @@ Hi there! I'm <b>Mohammad Siddique Sakib</b>. I build web experiences that feel 
 
 | Skill Category | Technologies |
 |----------------|--------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
@@ -42,4 +42,3 @@ Feel free to reach out or connect with me:
 
 - **Email**: dmsakib1122@gmail.com  
 - **LinkedIn**: [click here](https://www.linkedin.com/in/mohammad-siddique-sakib)
-
