@@ -1,10 +1,16 @@
-## About Me
-
-Hi there! I'm <b>Mohammad Siddique Sakib</b>. I build web experiences that feel smooth and intuitive. Using the **MERN Stack**, I focus on scalable architecture, fast performance, and clean user interfaces. I also enjoy sharing knowledge. 
+<p align="center">
+  <img src="https://i.postimg.cc/9fg64HLc/Mohammad-Siddique-Sakib.png" width="100%" style="border-radius: 12px;" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=ebedf0&center=true&vCenter=true&width=600&lines=Hi+there+I'm+Mohammad+Siddique+Sakib;Professional+Web+Developer" />
 </p>
+
+## About Me
+
+Hi there! I'm <b>Mohammad Siddique Sakib</b>. I build web experiences that feel smooth and intuitive. Using the **MERN Stack**, I focus on scalable architecture, fast performance, and clean user interfaces. I also enjoy sharing knowledge. 
+
+
 
 ---
 
