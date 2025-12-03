@@ -10,8 +10,6 @@
 
 Hi there! I'm <b>Mohammad Siddique Sakib</b>. I build web experiences that feel smooth and intuitive. Using the **MERN Stack**, I focus on scalable architecture, fast performance, and clean user interfaces. I also enjoy sharing knowledge. 
 
-
-
 ---
 
 ## Technologies I Work With
@@ -53,3 +51,5 @@ Feel free to reach out or connect with me:
 
 - **Email**: dmsakib1122@gmail.com  
 - **LinkedIn**: [click here](https://www.linkedin.com/in/mohammad-siddique-sakib)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
