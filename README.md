@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/9fg64HLc/Mohammad-Siddique-Sakib.png" width="100%" style="border-radius: 12px;" />
+  <img src="https://i.postimg.cc/9fg64HLc/Mohammad-Siddique-Sakib.png" width="100%" />
 </p>
 
 <p align="center">
