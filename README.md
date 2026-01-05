@@ -42,10 +42,6 @@ Hi there! I'm <b>Mohammad Siddique Sakib</b>. I build web experiences that feel 
 
 ---
 
-## Profile views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiquesakib&label=Profile%20views&color=0e75b6&style=flat" alt="siddiquesakib" /> </p>
-
-
 ## Contact
 Feel free to reach out or connect with me:  
 
