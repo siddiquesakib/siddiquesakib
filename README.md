@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway+Bold&size=26&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Hi+there+I'm+Mohammad+Siddique+Sakib;Professional+Web+Developer" />
-</p>>
+</p>
 
 ## About Me
 
@@ -41,6 +41,10 @@ Hi there! I'm <b>Mohammad Siddique Sakib</b>. I build web experiences that feel 
 ![](https://github-profile-trophy.vercel.app/?username=siddiquesakib&theme=onedark&no-frame=true&margin-w=4)
 
 ---
+
+## Profile views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiquesakib&label=Profile%20views&color=0e75b6&style=flat" alt="siddiquesakib" /> </p>
+
 
 ## Contact
 Feel free to reach out or connect with me:  
