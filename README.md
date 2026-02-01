@@ -21,7 +21,13 @@
 
 ## About Me
 
-Hi there! I'm <b>Mohammad Siddique Sakib</b>. I build web experiences that feel smooth and intuitive. Using the **MERN Stack**, I focus on scalable architecture, fast performance, and clean user interfaces. I also enjoy sharing knowledge and exploring new technologies.
+I’m a frontend-focused MERN Stack Developer who builds fast, clean, and intuitive web applications. I care deeply about user experience — how smooth an interaction feels and how clearly a product communicates.
+
+I specialize in React.js, Next.js, JavaScript, TypeScript, and Tailwind CSS to create responsive and engaging interfaces.
+
+On the backend, I work with Node.js, Express.js, MongoDB, Mongoose, and Firebase to support frontend systems with reliable logic. I focus on clean code, performance, and building products that scale without losing simplicity.
+
+When I’m not coding, I enjoy exploring UI/UX design and reading books that inspire new ideas and fresh perspectives.
 
 **Check out my portfolio:** [**ssakib-portfolio**](https://ssakib-portfolio.vercel.app/)
 
