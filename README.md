@@ -29,7 +29,7 @@ On the backend, I work with Node.js, Express.js, MongoDB, Mongoose, and Firebase
 
 When I’m not coding, I enjoy exploring UI/UX design and reading books that inspire new ideas and fresh perspectives.
 
-**Check out my portfolio:** [**ssakib-portfolio**](https://ssakib-portfolio.vercel.app/)
+**Check out my portfolio:** [**sakib-portfolio**](https://ssakib-portfolio.vercel.app/)
 
 ---
 
